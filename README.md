@@ -42,7 +42,6 @@ O NPM é o gerenciador de pacotes do node.js. Escreva no prompt o comando npm -v
 
 
 
-### Outros comandos do Node:
 
 Para instalar o [bootstrap](https://getbootstrap.com/) utilize o comado *npm install bootstrap* e crie sites rápidos e responsivos.
 
@@ -52,15 +51,6 @@ Para limpar a área utilize o comando *clear*.
 
 Conheça outros [comando do node.js](https://docs.microsoft.com/pt-br/windows/dev-environment/javascript/nodejs-beginners-tutorial).
 
-
-
-Ainda está com dúvidas?
-
-​    <img src="C:\Users\Roseane\Downloads\pexels-olia-danilevich-4974915.jpg" style="zoom:5%;" />
-
-[Click aqui e tire suas dúvidas](
-
- 
 
 
 
